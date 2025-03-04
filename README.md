@@ -9,6 +9,6 @@ Below are links to the different repositories:
 
 ## 🚀 Backend Versions
 - **Django Rest Framework Backend** – [GitHub Repository](https://github.com/mariuskas1/join_backend)
-- **ASP.NET Core Backend** – [GitHub Repo](https://github.com/mariuskas1/JoinAPI)
+- **ASP.NET Core Backend** – [GitHub Repository](https://github.com/mariuskas1/JoinAPI)
 
 
