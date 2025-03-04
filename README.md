@@ -1,6 +1,6 @@
 # Join Index
 
-This repository serves as an index for all related repositories of the **Join App**, a task manager inspired by the Kanban System. 
+This repository serves as an index for all related repositories of the **Join App**. 
 
 Below are links to the different repositories:
 
