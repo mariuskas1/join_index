@@ -5,8 +5,8 @@ This repository serves as an index for all related repositories of the **Join Ap
 Below are links to the different repositories:
 
 ## Frontend Versions
-- **Vanilla JavaScript Frontend** – [GitHub Repository](https://github.com/mariuskas1/join)
-- **React Frontend** (in progress) - [GitHub Repository](https://github.com/mariuskas1/join-v2)
+- **React Frontend** - [GitHub Repository](https://github.com/mariuskas1/join-v2)
+- **Vanilla JavaScript Frontend** (old) – [GitHub Repository](https://github.com/mariuskas1/join)
 
 ## Backend Versions
 - **Django Rest Framework Backend** – [GitHub Repository](https://github.com/mariuskas1/join_backend)
